@@ -39,7 +39,7 @@ Configure TB_HOST, TB_TOKEN and NODE_ID before running.
 
 plot_results.py
 ================
-Generates publication-quality graphs from master_scheduler.py CSV output.
+Generates graphs from master_scheduler.py CSV output.
 
 Produces:
   1. fig_reward.pdf        — Reward per epoch: UCB1 vs EXP3 vs Round-Robin
