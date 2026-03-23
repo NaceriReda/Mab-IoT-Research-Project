@@ -15,8 +15,10 @@ Each epoch:
   5. Compute core-aware equal-weight efficiency reward
   6. Update MAB policy
   7. Log metrics (reward, convergence, learning time)
+
 usage:
 On PC hosting Thingsboard:
+
   python master_scheduler.py
 
 tb_agent.py
