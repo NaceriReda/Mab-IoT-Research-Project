@@ -53,3 +53,8 @@ Usage:
   If --rr is omitted, a synthetic round-robin baseline is computed as the mean reward across all arms from the UCB1 run.
 
 Output directory: ./figures/
+
+Scripts are included to install the dependancies and Python virtual environments:
+install_master.sh - Host Device running Thingsboard (PC)
+install_pi.sh - Raspberry PI Worker Device
+install_bbb.sh - BeagleBone Worker Device
